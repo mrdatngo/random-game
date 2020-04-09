@@ -1,0 +1,13 @@
+.body {
+    width: 400px;
+    margin: 0 auto;
+}
+
+.text-bold {
+    font-weight: bold;
+}
+
+.btn-green {
+    background-color: green;
+    color: white;
+}
